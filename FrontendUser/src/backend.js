@@ -1,1 +1,1 @@
-export const API = "http://localhost:9000/api";
+export const API = "https://digilabsbackend.herokuapp.com/api";
